@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# react-course
-=======
-# React - The Complete Guide Course Resources
+# React-course - This repo follows: "The Complete Guide Course Resources"
 
 This repository provides access to code files, code snapshots, slides & other resources that are used or provided by the [React - The Complete Guide](https://acad.link/reactjs) course.
 
